@@ -8,3 +8,7 @@ Otorgarle permisos de ejecucion al script de bash para compilar y ejecutar el pr
 compilar la clase main con `javac Main.java -d build`
 
 Posteriormente entrar a la carpeta bin con `cd build` y ejecutar la clase Main con `java Main`
+
+## Vistas
+
+![Menu](doc/Menu.png)
